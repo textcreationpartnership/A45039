@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the knights, gentry, clergy, and commonalty of the county of Sussex, presented to both Houses on Wednesday, June 7, 1648 together with the answer of both Houses to the same, June 9, 1648 : to which are added some observations vpon the answer of both Houses to the sayd petition ...</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45039</idno><idno type="EEBO-CITATION">12159538</idno>
+  <idno type="VID">55258</idno>
+  <idno type="EEBO-PROQUEST">2240940136</idno>
+  
+            <idno type="STC">Wing H3528</idno>
+            <idno type="STC">ESTC R16104</idno>
+            <idno type="OCLC">12159538</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55258)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 73:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the knights, gentry, clergy, and commonalty of the county of Sussex, presented to both Houses on Wednesday, June 7, 1648 together with the answer of both Houses to the same, June 9, 1648 : to which are added some observations vpon the answer of both Houses to the sayd petition ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[3], 3-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55258:1"/>
+            <pb facs="tcp:55258:1"/>
+            <p>The Humble PETITION Of the Knights, Gentry, Clergy, and Commonalty of the County of <hi>Sussex:</hi> Presented to both Houses on Wednesday, June. 7. 1648.</p>
+            <p>Together, with the Answer of both Houses to the same, <hi>June,</hi> 9. 1648.</p>
+            <p>To which are added SOME OBSERVATIONS, Vpon the Answer of both Houses to the sayd Petition; being of generall use for all Petitions of this kinde.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:55258:2"/>
+            <pb n="3" facs="tcp:55258:2"/>
+            <head>To the Right Honourable the <hi>LORDS</hi> and <hi>COMMONS</hi> assembled in Parliament at Westminster.</head>
+            <head type="sub">The humble Petition of the Knights, Gentry, Clergy, and commonalty of the County of <hi>Sussex:</hi> Presented to both Houses upon Wednesday, <hi>June 7. 1648.</hi>
+            </head>
+            <opener>Sheweth:</opener>
+            <p>THAT the miserable effects of this civill Warre under which our Country, and three Kingdoms have long and heavily groaned, are the onely motives of these our humble and servent desires hereby propounded to your Honours.</p>
+            <p n="1">1. That our most gracious Soveraigne Lord King <hi>Charles</hi> may be speedily and honourably received to a safe Treaty with the two Houses of Parliament, for the firme setling of a well-grounded Peace, both in <hi>Church</hi> and <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> as also of his owne just Rights, and of the Rights of Parliament.</p>
+            <p n="2">2. That the Arrears of the Army under the command of the Lord <hi>Fairfax</hi> may be payd, and the Army with all ex<g ref="char:EOLhyphen"/>pedition disbanded.</p>
+            <pb n="4" facs="tcp:55258:3"/>
+            <p n="3">3. That according to the fundamentall constitutions of this Kingdome, we may be governed by the known Laws of this Kingdome, and not otherwise.</p>
+            <p n="4">4. That from henceforth our estates and goods may be freed from all Taxes and Impositions.</p>
+            <p n="5">5. That no garisons within the said County be any lon<g ref="char:EOLhyphen"/>ger continued, and that the Ordinance and Ammunition taken f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the Sea Townes may be returned, for the better <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efence of them and the whole County from forraigne In<g ref="char:EOLhyphen"/>vasions.</p>
+            <p>We therefore (as the well-affected Counties have already) do humbly pray you to yeeld a pre<g ref="char:EOLhyphen"/>sent c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndescention to our humble desires, that so our <hi>differences and divisions</hi> may be happily compo<g ref="char:EOLhyphen"/>sed, all mis-understandings betweene Prince and People timely removed, his Majesty (according to our solemne Engagement) rendred glorious, both King and Kingdom; returned to their pristine dig<g ref="char:EOLhyphen"/>nity and splendor at home and abroad; and your selves thereby merit the gratefull and universall ac<g ref="char:EOLhyphen"/>clamations of good and faithful Patriots.</p>
+            <closer>And your Petitioners shall pray, &amp;c.</closer>
+         </div>
+         <div type="response">
+            <pb n="5" facs="tcp:55258:3"/>
+            <head>The Answer of the LORDS and COMMONS assembled in <hi>Parlia<g ref="char:EOLunhyphen"/>ment,</hi> to the Petition of the Knights Gentry, Clergy, and Commonalty of the County of <hi>Sussex.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Veneris</hi> 9. <hi>Iunii,</hi> 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>THe Lords have commanded me to returne thankes to the County of</hi> Suss<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x <hi>for the good affections which they have expressed to the Parliament and Kingdome and they take notice, and are well satisfied with</hi> the com<g ref="char:EOLhyphen"/>plyance of that County <hi>to the directions of Parliament, in the way of the delivery of this their Petition They have already made</hi> some proceedings, which they hope may bring his Majesty to a safe Treaty <hi>with the two Houses of Parliament, for the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tling of a secure and well grounded peace, the which they will prosecute with all care and diligence. And they desire you to be assured, that they will use their utmost endeavours, that our</hi> sad differences and divisions may be speedily and happily composed; that so the Lawes and Fund<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mentall Consti<g ref="char:EOLhyphen"/>tutions of this Kingdome may have their free course and full vigour: <hi>Neither will they be wanting to contribute their utmost helpe for the freeing that County and the whole Kingdome</hi> from all those Taxes and Impositions, that the necessity of the late Wars have occasioned, as soone as the safety of the Kingdome shall permit.</p>
+                  <closer>
+                     <signed>John Brown Cler. Parl.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:55258:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Veneris 9. Junii, 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>THE House being informed that divers Gentlemen of the County of</hi> Sussex <hi>were at the doore, they were called in, and Sir</hi> William Celopepper <hi>Barromet, presented a Petition in the name of the Knights, Gentlemen, Clergy and Commonalty of the said County; and after they were withdrawne, the Petition entituled</hi> The humble Petition of the Knights, Gentlemen, Clergy and Commonalty of the County of Sussex, <hi>was read. The Petitioners were againe called in, and Mr. Speaker by the com<g ref="char:EOLhyphen"/>mand of the House, gave them this Answer.</hi>
+                  </p>
+                  <p>Gentlemen, <hi>This House takes notice, and approves of the Petitioners</hi> conformity <hi>to their Declaration, in</hi> the peaceable manner <hi>of their addresses, and have under consideration</hi> such meanes as are most conduceable to the speedy settlement of the peace of the Kingdome, and easing the Burdens of the people, <hi>and had (by Gods assistance) made a further progresse therein, had not</hi> some late Tumults and Commotions unhappi<g ref="char:EOLhyphen"/>ly interrupted their proceedings.</p>
+                  <closer>
+                     <signed>Hen. Elsyng. Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="observation">
+               <pb n="7" facs="tcp:55258:4"/>
+               <head>Short Observations upon the Answers of the two Houses to the <hi>Sussex</hi> Petition.</head>
+               <p>IN generall the answers are dilatory and delusory, as ap<g ref="char:EOLhyphen"/>peares by the particulars, for.</p>
+               <p n="1">1. They say, <hi>they have already made some proceedings which they hope may bring his Majestie to a safe treaty with the two Houses.</hi> That is, they have resolved on three Propositions to be sent to, and to be assented unto by his Majesty, before they treat personally with Him.</p>
+               <p n="1">1. That the Militia be settled upon the two Houses of Parliament to raise money and men upon us at plea<g ref="char:EOLhyphen"/>sure, both which are destructive to the liberty and pro<g ref="char:EOLhyphen"/>priety of the Subject.</p>
+               <p n="2">2. For setling Religion as the two Houses shall think fit; whereby as Sects and Schismes are already grown nu<g ref="char:EOLhyphen"/>merous; so heereafter they are like to be established a<g ref="char:EOLhyphen"/>mong us by a Law.</p>
+               <p n="3">3. That their proceedings in the late war be justified. That is, that their usurpations upon the Crowne, the Lawes, and the Subjects be made by such an Act a prece<g ref="char:EOLhyphen"/>dent to all Posterity.</p>
+               <p n="2">2. They say, <hi>that they will use their utmost endeavours that our sad differences and divisions may be speedily composed, that so the Law<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s and fundamentall constitutions of the Kingdome may have their free course and full vigour;</hi> whereby it is evident that they take upon them an authority over our Lawes and fundamentall constitutions; and hence are risen those <hi>sad differences and divisions amongst us,</hi> by reason of their law<g ref="char:EOLhyphen"/>lesse, and arbitrary proceedings.</p>
+               <p n="3">3. They say, <hi>they will contribute their help for the freeing of the Kingdome from all those taxes, and impositions that the ne<g ref="char:EOLhyphen"/>cessities
+<pb n="8" facs="tcp:55258:5"/>of the late warres have occasioned, assoon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> at the safety of the Kingdome shall permit:</hi> and why was the late war un<g ref="char:EOLhyphen"/>dertaken, and yet prosecuted, but meerely for overthrow<g ref="char:EOLhyphen"/>ing Law, King, and Kingdome, and for these reasons have they imposed, and doe to this day impose and continue these heavy Taxes upon us? and all this they doe in truth, not for saving the Kingdome, but for preserving and in<g ref="char:EOLhyphen"/>riching themselves.</p>
+               <p n="4">4. They say, <hi>They had made a further progresse in setling the Kingdome, had not some late Tumults and Commotions unhap<g ref="char:EOLhyphen"/>pily interrupted their proceedings.</hi> That is they had settled it in their owne way, <hi>viz.</hi> according to their owne Votes, and the votes of the Army, a Kingdome without a King, had not they been interrupted by the severall Petitions from <hi>Es<g ref="char:EOLhyphen"/>sex, Surry, Kent,</hi> and <hi>Sussex,</hi> who now are stiled Tumultuous, and their Add<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esses called Commotions; whereas heereto<g ref="char:EOLhyphen"/>fore Tumults indeed, have been raised and countenanced by them, and the Authors of them stiled their friends, because they spake their sence</p>
+               <p>
+                  <note place="margin">The summe of the Houses answers to all Counties Pe<g ref="char:EOLhyphen"/>titions.</note> The summe of all is this, our Taxes and Impositions must continue, so long as the war continues; and their illegall proceedings, so long as our <hi>Divisions</hi> and <hi>Differences</hi> con<g ref="char:EOLhyphen"/>tinue; and our Divisions till there be a Personall Treaty: which Treaty the two Houses never intend; if they did, they would not obstruct it with Propositions as they doe derogatory to the Crowne, prejudiciall to the Kings cause, destructive to Religion, to the liberty and propriety of the Subject. By this summe of all it appeares, what all Counties who petition in this kinde are to trust to.</p>
+               <p>
+                  <note place="margin">Counties to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tition no more.</note> Wherefore the people of this Kingdome are so to be<g ref="char:EOLhyphen"/>have themselves, that they be neither delayed nor deluded, any longer; but are forthwith vigorously to proceed to rescue their captivated King, whose life is every minute in danger by bloudy villaines and assassinates, and thereby restore and establish their owne lost Lawes, Liberties, Reli<g ref="char:EOLhyphen"/>gion, and Properties.</p>
+               <pb facs="tcp:55258:5"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
